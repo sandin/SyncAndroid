@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SyncAndroid</string>
+    <string name="sync">同步</string>
+    <string name="start_sync">开始同步</string>
+
+</resources>
